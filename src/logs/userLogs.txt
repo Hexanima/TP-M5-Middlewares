@@ -1,0 +1,11 @@
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /services/design
+El usuario ingresó a la ruta: /sadmin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
